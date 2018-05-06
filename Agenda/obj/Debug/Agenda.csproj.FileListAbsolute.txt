@@ -1,0 +1,50 @@
+C:\Users\alexb\source\repos\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\alexb\source\repos\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\alexb\source\repos\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\alexb\source\repos\Agenda\Agenda\obj\Debug\Agenda.csprojResolveAssemblyReference.cache
+C:\Users\alexb\source\repos\Agenda\Agenda\obj\Debug\Agenda.Form1.resources
+C:\Users\alexb\source\repos\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\alexb\source\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.Cache
+C:\Users\alexb\source\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\alexb\source\repos\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\alexb\source\repos\Agenda\Agenda\obj\Debug\Agenda.pdb
+C:\Users\alexb\Downloads\Agenda-master\Agenda-master\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\alexb\Downloads\Agenda-master\Agenda-master\Agenda\bin\Debug\Agenda.exe
+C:\Users\alexb\Downloads\Agenda-master\Agenda-master\Agenda\bin\Debug\Agenda.pdb
+C:\Users\alexb\Downloads\Agenda-master\Agenda-master\Agenda\obj\Debug\Agenda.csprojResolveAssemblyReference.cache
+C:\Users\alexb\Downloads\Agenda-master\Agenda-master\Agenda\obj\Debug\Agenda.Form1.resources
+C:\Users\alexb\Downloads\Agenda-master\Agenda-master\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\alexb\Downloads\Agenda-master\Agenda-master\Agenda\obj\Debug\Agenda.csproj.GenerateResource.Cache
+C:\Users\alexb\Downloads\Agenda-master\Agenda-master\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\alexb\Downloads\Agenda-master\Agenda-master\Agenda\obj\Debug\Agenda.exe
+C:\Users\alexb\Downloads\Agenda-master\Agenda-master\Agenda\obj\Debug\Agenda.pdb
+C:\Users\alexb\source\repos\Agenda Listas\Agenda-master\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\alexb\source\repos\Agenda Listas\Agenda-master\Agenda\bin\Debug\Agenda.exe
+C:\Users\alexb\source\repos\Agenda Listas\Agenda-master\Agenda\bin\Debug\Agenda.pdb
+C:\Users\alexb\source\repos\Agenda Listas\Agenda-master\Agenda\obj\Debug\Agenda.csprojResolveAssemblyReference.cache
+C:\Users\alexb\source\repos\Agenda Listas\Agenda-master\Agenda\obj\Debug\Agenda.Form1.resources
+C:\Users\alexb\source\repos\Agenda Listas\Agenda-master\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\alexb\source\repos\Agenda Listas\Agenda-master\Agenda\obj\Debug\Agenda.csproj.GenerateResource.Cache
+C:\Users\alexb\source\repos\Agenda Listas\Agenda-master\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\alexb\source\repos\Agenda Listas\Agenda-master\Agenda\obj\Debug\Agenda.exe
+C:\Users\alexb\source\repos\Agenda Listas\Agenda-master\Agenda\obj\Debug\Agenda.pdb
+C:\Users\alexb\source\repos\Agenda Listas - C\Agenda-master\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\alexb\source\repos\Agenda Listas - C\Agenda-master\Agenda\bin\Debug\Agenda.exe
+C:\Users\alexb\source\repos\Agenda Listas - C\Agenda-master\Agenda\bin\Debug\Agenda.pdb
+C:\Users\alexb\source\repos\Agenda Listas - C\Agenda-master\Agenda\obj\Debug\Agenda.csprojResolveAssemblyReference.cache
+C:\Users\alexb\source\repos\Agenda Listas - C\Agenda-master\Agenda\obj\Debug\Agenda.Form1.resources
+C:\Users\alexb\source\repos\Agenda Listas - C\Agenda-master\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\alexb\source\repos\Agenda Listas - C\Agenda-master\Agenda\obj\Debug\Agenda.csproj.GenerateResource.Cache
+C:\Users\alexb\source\repos\Agenda Listas - C\Agenda-master\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\alexb\source\repos\Agenda Listas - C\Agenda-master\Agenda\obj\Debug\Agenda.exe
+C:\Users\alexb\source\repos\Agenda Listas - C\Agenda-master\Agenda\obj\Debug\Agenda.pdb
+C:\Users\alexb\source\repos\Agenda Listas - Dobles\Agenda-master\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\alexb\source\repos\Agenda Listas - Dobles\Agenda-master\Agenda\bin\Debug\Agenda.exe
+C:\Users\alexb\source\repos\Agenda Listas - Dobles\Agenda-master\Agenda\bin\Debug\Agenda.pdb
+C:\Users\alexb\source\repos\Agenda Listas - Dobles\Agenda-master\Agenda\obj\Debug\Agenda.csprojResolveAssemblyReference.cache
+C:\Users\alexb\source\repos\Agenda Listas - Dobles\Agenda-master\Agenda\obj\Debug\Agenda.Form1.resources
+C:\Users\alexb\source\repos\Agenda Listas - Dobles\Agenda-master\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\alexb\source\repos\Agenda Listas - Dobles\Agenda-master\Agenda\obj\Debug\Agenda.csproj.GenerateResource.Cache
+C:\Users\alexb\source\repos\Agenda Listas - Dobles\Agenda-master\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\alexb\source\repos\Agenda Listas - Dobles\Agenda-master\Agenda\obj\Debug\Agenda.exe
+C:\Users\alexb\source\repos\Agenda Listas - Dobles\Agenda-master\Agenda\obj\Debug\Agenda.pdb
